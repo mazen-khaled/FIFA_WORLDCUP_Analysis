@@ -60,4 +60,4 @@ This project demonstrates the power of Power BI in analyzing and visualizing com
 
 ## Contact
 
-For any questions or suggestions, please contact [yourname@domain.com](kmazen275@gmail.com).
+For any questions or suggestions, please contact kmazen275@gmail.com.
