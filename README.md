@@ -54,10 +54,10 @@ This project demonstrates the power of Power BI in analyzing and visualizing com
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/yourusername/fifa-world-cups-analysis.git`
-2. Open the Power BI file: `fifa_world_cups_analysis.pbix`
+1. Clone the repository: `git clone https://github.com/mazen-khaled/FIFA_WORLDCUP_Analysis.git`
+2. Open the Power BI file: `World_Cup.pbix`
 3. Explore the dashboards and interact with the visualizations.
 
 ## Contact
 
-For any questions or suggestions, please contact [yourname@domain.com](mailto:yourname@domain.com).
+For any questions or suggestions, please contact [yourname@domain.com](kmazen275@gmail.com).
