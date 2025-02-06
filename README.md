@@ -19,11 +19,11 @@ The FIFA World Cup is the most prestigious football tournament in the world, att
 
 ### Dark Theme
 
-![FIFA World Cups Analysis - Dark Theme](path/to/image1.png)
+![FIFA World Cups Analysis - Dark Theme](screenshots/1.png)
 
 ### Light Theme
 
-![FIFA World Cups Analysis - Light Theme](path/to/image2.png)
+![FIFA World Cups Analysis - Light Theme](screenshots/2.png)
 
 The "FIFA World Cups Analysis" dashboard provides a comprehensive overview of various statistics related to the FIFA World Cup. Key elements include:
 
@@ -37,7 +37,7 @@ The "FIFA World Cups Analysis" dashboard provides a comprehensive overview of va
 
 ## Dashboard: Soccer Match Data (2010)
 
-![Soccer Match Data (2010)](path/to/image3.png)
+![Soccer Match Data (2010)](screenshots/3.png)
 
 This dashboard visualizes data from a soccer match in the year 2010, specifically focusing on a match where the away team is England (ENG) and the home team is Germany (GER). Key elements include:
 
